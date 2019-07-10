@@ -1,0 +1,9 @@
+Instruções:
+
+1) Ter instalado o Node.js;
+2) Ter instalado o Nightwatch;
+3) Ter instalado o ChromeDriver;
+4) Baixar projeto do Github (https://github.com/passeidiretoteste/Teste) e salvar na pasta onde está instalado o Nightwatch;
+5) Abrir Node.js command prompt;
+6) Acessar o diretório onde foi salvo o projeto pelo prompt de comando. (cd C://Documents por exemplo);
+7) rodar o nightwatch (Comando para rodar Nightwatch: .\node_modules\.bin\nightwatch)
